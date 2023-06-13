@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <head>
+            <title>"Ejercicio 02 - Formularios en HTML"</title>
+        </head>
+        <body>
+                <form action="" method="get"></form>
+                <div>
+                    <label for="Nombre">Nombre</label>
+                    <input type="text" name="Nombre" id="nombre">
+                </div>
+                <br>
+                <div>
+                    <label for="Edad">Edad</label>
+                    <input type="number" name="edad" id="id">
+                </div>
+                <br>
+                <div>
+                    <label for="Frase-favorita">Tu frase favorita</label>
+                    <textarea name="Comentarios">Comentarios</textarea>
+                </div>
+                <br>
+                <button type="Enviar">Enviar</button>
+                <button type="Reset">Reset</button>
+        </body>
+    </head>
+</html>
